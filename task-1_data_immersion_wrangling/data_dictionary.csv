@@ -1,0 +1,17 @@
+Column Name,Data Type
+Order_ID,object
+Order_Date,datetime64[ns]
+Customer_ID,object
+Customer_Name,object
+Age,float64
+Gender,object
+City,object
+Product,object
+Category,object
+Quantity,int64
+Unit_Price,float64
+Total_Sales,float64
+Year,int32
+Month,object
+Day,object
+Age_Group,category
