@@ -17,7 +17,7 @@ This repository serves as a centralized portfolio showcasing all the tasks compl
 - Dataset preparation
 
 🔗 Repository Link:
-task-1_data_immersion_wrangling (ApexPlanet_intern1) :  https://github.com/Akshitha0312/ApexPlanet_intern1.git
+  https://github.com/Akshitha0312/ApexPlanet_intern1.git
 
 ---
 
@@ -28,7 +28,7 @@ task-1_data_immersion_wrangling (ApexPlanet_intern1) :  https://github.com/Akshi
 - Static dashboard creation
 
 🔗 Repository Link:
-task-2_EDA_business_intelligence(ApexPlanet_intern2) : https://github.com/Akshitha0312/ApexPlanet_intern2.git
+  https://github.com/Akshitha0312/ApexPlanet_intern2.git
 
 ---
 
@@ -39,7 +39,7 @@ task-2_EDA_business_intelligence(ApexPlanet_intern2) : https://github.com/Akshit
 - Sales and customer insights
 
 🔗 Repository Link:
-task-3_Deep_dive_dashboard(ApexPlanet_intern3) : https://github.com/Akshitha0312/ApexPlanet_intern3.git
+   https://github.com/Akshitha0312/ApexPlanet_intern3.git
 
 ---
 
@@ -50,7 +50,7 @@ task-3_Deep_dive_dashboard(ApexPlanet_intern3) : https://github.com/Akshitha0312
 - Statistical validation
 
 🔗 Repository Link:
-task-4_Data_storytelling_statistical_validation(ApexPlanet_intern4) : https://github.com/Akshitha0312/ApexPlanet_intern4.git
+   https://github.com/Akshitha0312/ApexPlanet_intern4.git
 
 ---
 
